@@ -27,7 +27,7 @@ something...
 ```
 ### Case Study
 ```xml
-<!-- I will make a template for creating an interface for the C# programming language C#-->
+<!-- I will make a template for creating an interface for the C# programming language-->
 <output name="I<name>" extension=".cs">
 namespace MyCSharpProject;
 
